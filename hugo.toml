@@ -1,6 +1,6 @@
 baseURL = 'https://redpigkiller.github.io/redpigfarm/'
-languageCode = 'zhTW'
-title = 'My New Hugo Site'
+languageCode = 'zh-TW'
+title = 'RedPigFarm'
 theme = 'hugo-book'
 
 
@@ -100,7 +100,7 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information

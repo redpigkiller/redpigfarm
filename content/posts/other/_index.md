@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: blog
+    name: other
     weight: 5
-title: Blog
+title: 其他
 ---
